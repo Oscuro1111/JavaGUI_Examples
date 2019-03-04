@@ -3,6 +3,6 @@ Java Basic GUI Examples
 
 JAVA Advance GUI
 
-Exaplmple 
+Example 
 
 MAIN.class
