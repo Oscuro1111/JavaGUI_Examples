@@ -11,6 +11,7 @@ public class Mouse_Event_Handel extends JFrame implements MouseListener{
 	/**
 	 * 
 	 */
+	
 	private static final long serialVersionUID = 1L;
 	private int x,y;
 	private JLabel label = new JLabel("Do somthing with Mouse!");
@@ -26,6 +27,7 @@ public class Mouse_Event_Handel extends JFrame implements MouseListener{
 		con.add(button);
 		addMouseListener( this );
 		add(label);
+		
 	}
 	public void MouseClicked( MouseEvent event)
 	{

@@ -21,13 +21,14 @@ public class MAIN extends JFrame {
 		con.add(scroll);
 		panel.add(label);
 		
+		
 	}
 	public static void main( String[] args)
 	{
-		final int WIDTH = 180;
-		final int HEIGHT = 200;
+		final int WIDTH = 680;
+		final int HEIGHT = 700;
 		
-			Menu_Bar mouse = new Menu_Bar();
+		JDemoGraphic mouse = new JDemoGraphic();
 			
 			
 		
